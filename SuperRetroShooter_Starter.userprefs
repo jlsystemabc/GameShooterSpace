@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controladores\ControladorDeNave.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Controladores\ControladorDeNave.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Comuns\AutoDestruirParticulas.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Comuns\Barreira.cs" Line="2" Column="26" />
+      <File FileName="Assets\Scripts\Comuns\ColetorDePowerup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Comuns\MovimentoBasico.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Comuns\DestruirNaBarreira.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Comuns\MovimentoRandomico.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controladores\ControladorDeJogo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controladores\ControladorDeNaveInimiga.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Gerenciadores\GerenciadorUI.cs" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\Pool\Pooler.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
